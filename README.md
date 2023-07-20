@@ -32,4 +32,5 @@
 
 Kancharla Naveen Kumar's GitHub Activity Graph
 
-![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api username=NAVEENDATAANALYST&show_icons=true&theme=radical) ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
+![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api username=NAVEENDATAANALYST&show_icons=true&theme=radical) 
+![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
