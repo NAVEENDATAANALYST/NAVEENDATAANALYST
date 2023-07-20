@@ -48,4 +48,4 @@ style="vertical-align:down; margin:4px"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NAVEENDATAANALYST&show_icons=true&theme=gotham" alt="Kancharla Naveen Kumar" />
 
-![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=gotham" alt="Kancharla Naveen Kumar" />
