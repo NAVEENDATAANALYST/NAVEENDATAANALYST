@@ -7,11 +7,12 @@
 🌱 I’m currently learning *Python language and AI and ML* to expand my skills and knowledge.
 
 ## Connect with Me
-[![GitHub]()
-[![LinkedIn]()
-[![LeetCode]()
-[![HackerRank]()
-[![Kaggle]()
+[![GitHub](https://img.shields.io/badge/GitHub-THODESAIPRAJWAL-blue?logo=github&style=flat-square&logoColor=white)](https://github.com/NAVEENDATAANALYST)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thode_Sai_Prajwal-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/thode-sai-prajwal-436554191)
+[![LeetCode](https://img.shields.io/badge/LeetCode-thodesaiprajwal-red?logo=leetcode&style=flat-square&logoColor=white)](https://leetcode.com/thodesaiprajwal/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-thodesaiprajwal-green?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/thodesaiprajwal)
+[![Salesforce](https://img.shields.io/badge/salesforce-tsaiprajwal-blue?logo=salesforce&style=flat-square&logoColor=white)](https://trailblazer.me/id/tsaiprajwal)
+[![Kaggle](https://img.shields.io/badge/Kaggle-thodesaiprajwal-orange?logo=kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/thodesaiprajwal)
 <div align="center">
 <img width="500" height="200" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 </div>
