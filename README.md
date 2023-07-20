@@ -17,7 +17,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Welcome+To+Kancharla+Naveen+Kumarl's+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&width=1000&lines=Welcome+To+Kancharla+Naveen+Kumar's+GitHub+Profile!)](https://git.io/typing-svg)
  
 </div>
 <hr>
@@ -34,8 +34,6 @@
 - Visualization Skills: Excel, Tableau and Power BI
 
 ---
-
-<hr>
 
 Kancharla Naveen Kumar's GitHub Activity Graph
 
