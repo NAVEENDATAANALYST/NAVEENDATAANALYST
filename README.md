@@ -39,8 +39,6 @@ style="vertical-align:down; margin:4px"/>
 
 ---
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENDATAANALYST&hide=TeX&layout=compact)
 
 
