@@ -7,10 +7,11 @@
 🌱 I’m currently learning *Python language and AI and ML* to expand my skills and knowledge. 
 
 ## Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-Naveen-blue?logo=github&style=flat-square&logoColor=white)](https://github.com/NAVEENDATAANALYST)
+[![GitHub](https://img.shields.io/badge/GitHub-Naveen-black?logo=github&style=flat-square&logoColor=White)](https://github.com/NAVEENDATAANALYST)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Naveen-blue?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/kancharla-naveen-kumar-161a04238)
 [![HackerRank](https://img.shields.io/badge/HackerRank-Naveen-green?logo=hackerrank&style=flat-square&logoColor=white)](https://www.hackerrank.com/kancharla_navee1?hr_r=1)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Naveen-orange?logo=kaggle&style=flat-square&logoColor=white)](https://www.kaggle.com/naveenkumar20bps1137)
+[![Mail](https://img.shields.io/badge/Mail-Naveen-red?logo=mail&style=flat-square&logoColor=white)](kancharla.naveenkumar2020@vitstudent.ac.in)
 <div align="center">
 <img width="500" height="200" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
 </div>
