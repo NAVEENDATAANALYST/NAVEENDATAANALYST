@@ -22,11 +22,6 @@
 </div>
 <hr>
 
-<div align="center">
-<img width="500" height="200" src="https://github.com/ankitjha2711/ankitjha2711/blob/main/animation_500_kxa883sd.gif?raw=true" alt="cover" />
-</div>
-
-
 
 ## Skills
 - Programming Skills: Proficiency in Java, C++, R, Python and SQL
@@ -37,4 +32,4 @@
 
 Kancharla Naveen Kumar's GitHub Activity Graph
 
-![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVEENDATAANALYST&show_icons=true&theme=radical)             ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
+![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api username=NAVEENDATAANALYST&show_icons=true&theme=radical) ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
