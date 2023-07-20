@@ -24,9 +24,9 @@
 
 
 ## Skills
-- ## Programming Skills: Proficiency in Java, C++, R, Python and SQL
-- ## Technical Skills: Knowledge of fundamental data structures such as Arrays, Linked Lists, Stacks, Queues and Trees; Machine Learning, Data Visualization, Statistical Analysis and Problem Solving
-- ## Visualization Skills: Excel, Tableau and Power BI
+- #### Programming Skills: Proficiency in Java, C++, R, Python and SQL
+- #### Technical Skills: Knowledge of fundamental data structures such as Arrays, Linked Lists, Stacks, Queues and Trees; Machine Learning, Data Visualization, Statistical Analysis and Problem Solving
+- #### Visualization Skills: Excel, Tableau and Power BI
 
 ---
 
