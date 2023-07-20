@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NAVEENDATAANALYST&color=blueviolet)
 
-🌱 I’m currently learning *Python language and AI and ML* to expand my skills and knowledge.
+🌱 I’m currently learning *Python language and AI and ML* to expand my skills and knowledge. 
 
 ## Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-Naveen-blue?logo=github&style=flat-square&logoColor=white)](https://github.com/NAVEENDATAANALYST)
