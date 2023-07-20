@@ -2,7 +2,7 @@
 
 ## A passionate Computer Science and Engineering student from Vellore Institute of Technology, Chennai.
 
-![Profile Views](https://komarev.com/ghpvc/?username=THODESAIPRAJWAL&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=NAVEENDATAANALYST&color=blueviolet)
 
 🌱 I’m currently learning *Python language and AI and ML* to expand my skills and knowledge.
 
@@ -24,12 +24,12 @@
 
 
 ## Skills
-- Programming Skills: Proficiency in Java, C++, R, Python and SQL
-- Technical Skills: Knowledge of fundamental data structures such as Arrays, Linked Lists, Stacks, Queues and Trees; Machine Learning, Data Visualization, Statistical Analysis and Problem Solving
-- Visualization Skills: Excel, Tableau and Power BI
+- ## Programming Skills: Proficiency in Java, C++, R, Python and SQL
+- ## Technical Skills: Knowledge of fundamental data structures such as Arrays, Linked Lists, Stacks, Queues and Trees; Machine Learning, Data Visualization, Statistical Analysis and Problem Solving
+- ## Visualization Skills: Excel, Tableau and Power BI
 
 ---
 
-Kancharla Naveen Kumar's GitHub Activity Graph
+## Kancharla Naveen Kumar's GitHub Activity Graph
 
 ![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVEENDATAANALYST&show_icons=true&theme=radical)             ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
