@@ -39,7 +39,7 @@ style="vertical-align:down; margin:4px"/>
 
 ---
 
-<hr>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEENDATAANALYST&hide=TeX&layout=compact)
 
@@ -48,4 +48,4 @@ style="vertical-align:down; margin:4px"/>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NAVEENDATAANALYST&show_icons=true&theme=gotham" alt="Kancharla Naveen Kumar" />
 
-![Kancharla Naveen Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NAVEENDATAANALYST&show_icons=true&theme=radical)             ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
+<p align="center"> ![Kancharla Naveen Kumar's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NAVEENDATAANALYST&theme=radical)
