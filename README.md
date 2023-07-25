@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kancharla Naveen Kumar 
+# Hi there! 👋 I'm Kancharla Naveen Kumar
 
 ## A passionate Computer Science and Engineering student from Vellore Institute of Technology, Chennai.
 
